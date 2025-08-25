@@ -6,6 +6,6 @@ import Portfolio from './App'; // If your main component is in App.js
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Portfolio
+    <Portfolio />
   </React.StrictMode>
 );
