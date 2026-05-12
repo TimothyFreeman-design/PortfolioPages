@@ -5,12 +5,12 @@ import { Github, ExternalLink } from "lucide-react";
 const ProjectsPage = () => {
   const projects = [
     {
-      title: "E-Commerce Platform",
+      title: "Blog Platform",
       description: "Full-stack e-commerce with React, Node.js, and MongoDB.",
       image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400&h=250&fit=crop",
-      tech: ["React", "Node.js", "MongoDB", "Stripe"],
+      tech: ["React", "Node.js", "MongoDB", ""],
       github: "https://github.com",
-      live: "https://demo.com",
+      live: "https://bloggy-kappa-sooty.vercel.app",
       featured: true,
     },
     {

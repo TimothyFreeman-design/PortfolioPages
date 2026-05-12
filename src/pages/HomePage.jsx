@@ -20,10 +20,10 @@ const HomePage = ({ navigate }) => (
 
       {/* Socials */}
       <div className="flex justify-center space-x-6 mb-12">
-        <a href="https://github.com" className="p-3 bg-white/10 rounded-full hover:bg-white/20 hover:scale-110 transition">
+        <a href="https://github.com/timothyfreeman-design" className="p-3 bg-white/10 rounded-full hover:bg-white/20 hover:scale-110 transition">
           <Github className="w-6 h-6" />
         </a>
-        <a href="https://linkedin.com" className="p-3 bg-white/10 rounded-full hover:bg-white/20 hover:scale-110 transition">
+        <a href="https://linkedin.com/in/tifree" className="p-3 bg-white/10 rounded-full hover:bg-white/20 hover:scale-110 transition">
           <Linkedin className="w-6 h-6" />
         </a>
         <a href="mailto:sentfrommy3ds@icloud.com" className="p-3 bg-white/10 rounded-full hover:bg-white/20 hover:scale-110 transition">

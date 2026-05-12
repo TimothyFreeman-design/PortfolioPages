@@ -38,9 +38,9 @@ const ContactPage = ({ navigate }) => {
           <div className="text-center p-6 bg-slate-800/50 rounded-xl border border-purple-500/20 hover:scale-105 transition">
             <Mail className="w-8 h-8 text-purple-400 mx-auto mb-4" />
             <h3 className="text-lg font-semibold mb-2">Email</h3>
-            <p className="text-gray-300">john@example.com</p>
+            <p className="text-gray-300">sentfrommy3ds@icloud.com</p>
             <a
-              href="mailto:john@example.com"
+              href="mailto:sentfrommy3ds@icloud.com"
               className="inline-block mt-2 text-purple-400 hover:text-purple-300 transition-colors"
             >
               Send Email
@@ -50,7 +50,7 @@ const ContactPage = ({ navigate }) => {
           <div className="text-center p-6 bg-slate-800/50 rounded-xl border border-purple-500/20 hover:scale-105 transition">
             <Linkedin className="w-8 h-8 text-purple-400 mx-auto mb-4" />
             <h3 className="text-lg font-semibold mb-2">LinkedIn</h3>
-            <p className="text-gray-300">linkedin.com/in/johndoe</p>
+            <p className="text-gray-300">linkedin.com/in/tifree</p>
             <a
               href="https://linkedin.com"
               className="inline-block mt-2 text-purple-400 hover:text-purple-300 transition-colors"
@@ -62,9 +62,9 @@ const ContactPage = ({ navigate }) => {
           <div className="text-center p-6 bg-slate-800/50 rounded-xl border border-purple-500/20 hover:scale-105 transition">
             <Github className="w-8 h-8 text-purple-400 mx-auto mb-4" />
             <h3 className="text-lg font-semibold mb-2">GitHub</h3>
-            <p className="text-gray-300">github.com/johndoe</p>
+            <p className="text-gray-300">github.com/timothyfreeman-design</p>
             <a
-              href="https://github.com"
+              href="https://github.com/timothyfreeman-design"
               className="inline-block mt-2 text-purple-400 hover:text-purple-300 transition-colors"
             >
               Follow
